@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "reserva_emergencia",
+    "risco": "muito_baixo",
+    "objetivo": "Manter reserva com alta liquidez e baixo risco",
+    "liquidez": "diaria",
+    "prazo_sugerido": "curto_prazo",
+    "aporte_minimo": 30.0,
+    "aceita_perda": false,
+    "adequado_para": ["reserva de emergência", "primeiro investimento", "perfil conservador"],
+    "alertas": ["Pode oscilar levemente no curto prazo", "Não é indicado para objetivos de longo prazo com maior retorno"]
+  },
+  {
+    "nome": "CDB com Liquidez Diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "objetivo": "Ter segurança, liquidez e rendimento previsível",
+    "liquidez": "diaria",
+    "prazo_sugerido": "curto_prazo",
+    "aporte_minimo": 100.0,
+    "aceita_perda": false,
+    "adequado_para": ["reserva de emergência", "caixa de oportunidade", "perfil conservador"],
+    "alertas": ["Verificar a cobertura do FGC", "A rentabilidade pode variar conforme o emissor"]
+  },
+  {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "objetivo": "Preservar capital com isenção de IR para pessoa física",
+    "liquidez": "vencimento",
+    "prazo_sugerido": "medio_prazo",
+    "aporte_minimo": 1000.0,
+    "aceita_perda": false,
+    "adequado_para": ["objetivos de médio prazo", "perfil conservador", "investidor que pode esperar vencimento"],
+    "alertas": ["Geralmente tem carência ou vencimento", "Não serve para reserva de emergência imediata"]
+  },
+  {
+    "nome": "Fundo Imobiliário (FII)",
+    "categoria": "renda_variavel",
+    "risco": "medio",
+    "objetivo": "Buscar renda recorrente e diversificação",
+    "liquidez": "diaria_em_mercado",
+    "prazo_sugerido": "longo_prazo",
+    "aporte_minimo": 100.0,
+    "aceita_perda": true,
+    "adequado_para": ["perfil moderado", "diversificação", "renda mensal"],
+    "alertas": ["Cotação pode oscilar", "Dividendos não são garantidos"]
+  },
+  {
+    "nome": "ETF de Ações",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "objetivo": "Exposição ampla à bolsa com diversificação automática",
+    "liquidez": "diaria_em_mercado",
+    "prazo_sugerido": "longo_prazo",
+    "aporte_minimo": 100.0,
+    "aceita_perda": true,
+    "adequado_para": ["perfil arrojado", "longo prazo", "acumulação de patrimônio"],
+    "alertas": ["Pode ter forte volatilidade", "Não é indicado para quem não aceita perdas no curto prazo"]
+  }
+]
