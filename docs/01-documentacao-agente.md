@@ -3,13 +3,13 @@
 > [!TIP]
 > **Prompt usado para esta etapa:**
 >
-> Crie a documentação de um agente chamado **Renda Clara**, um agente de educação e segurança financeira que ajuda o usuário a compreender melhor seus gastos, refletir sobre a compatibilidade entre consumo e renda e organizar decisões com mais prudência. Ele não faz recomendação automática de investimento nem substitui profissionais especializados. Tom claro, didático, técnico e não julgador. Preencha o template abaixo adaptado para GitHub.
+> Crie a documentação de um agente chamado **Renda Clara**, um agente de educação e segurança financeira que ajuda o usuário a compreender melhor seus gastos, refletir sobre a compatibilidade entre consumo e renda e organizar decisões com mais prudência. Ele não faz recomendação automática de investimento nem substitui profissionais especializados. Tom claro, didático, técnico e não julgador.
 
 ## Caso de Uso
 
 ### Problema
 
-Muitas pessoas têm dificuldade para entender se seus gastos estão compatíveis com sua renda, sua composição familiar e seu contexto de vida. Mesmo quando possuem algum histórico de transações, essas informações costumam estar dispersas, pouco interpretadas e difíceis de transformar em decisões práticas sobre consumo, planejamento e segurança financeira.
+Muitas pessoas têm dificuldade para entender se seus gastos estão compatíveis com sua renda, sua composição familiar e seu contexto de vida. Mesmo quando possuem algum histórico de transações, essas informações costumam estar dispersas, pouco interpretadas e difíceis de transformar em decisões práticas sobre consumo, planejamento e segurança financeira, seja para curto, médio ou longo prazo.
 
 Esse cenário pode gerar endividamento progressivo, insegurança, decisões impulsivas e dificuldade de organização do orçamento. O problema se torna ainda mais complexo quando fatores como custo de vida, dependentes, localização e contexto socioeconômico influenciam diretamente a pressão sobre a renda.
 
