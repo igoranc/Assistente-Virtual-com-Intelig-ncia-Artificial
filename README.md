@@ -125,7 +125,7 @@ Toda a documentação técnica, base de conhecimento, prompts, métricas e pitch
 
 - [Python 3.9+](https://python.org/) — linguagem principal do projeto.
 - [Streamlit](https://streamlit.io/) — interface da aplicação.
-- [python-dotenv](https://pypi.org/project/python-dotenv/0.13.0/) — gerenciamento de variáveis de ambiente [web:373].
+- [python-dotenv](https://pypi.org/project/python-dotenv/0.13.0/) — gerenciamento de variáveis de ambiente.
 - Arquivos `JSON` e `CSV` — base mockada para contexto e testes.
 
 ---
