@@ -30,32 +30,18 @@ O agente **ensina e orienta a reflexão**, mas **não faz recomendação finance
 
 ## Arquitetura
 
+## Arquitetura
+
 ```mermaid
 flowchart TD
-    A[Usuário]
-    B[Interface em Streamlit]
-    C[Identificação da Intenção]
-    D[Montagem do Contexto]
-    E[LLM Local via Ollama]
-    F[Base de Conhecimento]
-    F1[transacoes.csv]
-    F2[historico_atendimento.csv]
-    F3[perfil_investidor.json]
-    F4[produtos_financeiros.json]
-    G[Camada de Validação]
-    H[Resposta Educativa e Prudente]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    D --> F
-    F --> F1
-    F --> F2
-    F --> F3
-    F --> F4
-    E --> G
-    G --> H
+    A[Usuário] --> B[Streamlit]
+    B --> C[Renda Clara - Agente]
+    C --> D[LLM Local / Ollama]
+    C --> E[Base de Conhecimento]
+    E --> C
+    D --> F[Camada de Validação]
+    F --> G[Resposta Educativa]
+```
 
 ### Descrição do fluxo
 
@@ -63,10 +49,8 @@ flowchart TD
 2. O agente identifica a intenção principal da solicitação.
 3. O sistema monta um contexto dinâmico com base nos arquivos da base de conhecimento.
 4. O LLM local processa a pergunta com base nesse contexto.
-5. Uma camada de validação verifica segurança, aderência ao escopo e risco de alucinação.
+5. A camada de validação verifica segurança, aderência ao escopo e risco de alucinação.
 6. O usuário recebe uma resposta educativa, clara e prudente.
-
----
 
 ## 📁 Estrutura do Projeto
 
