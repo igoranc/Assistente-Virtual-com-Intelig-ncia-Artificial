@@ -1,0 +1,11 @@
+data,descricao,categoria,valor,tipo,prioridade,impacto_no_orcamento,observacao_renda_clara
+2025-10-01,Salário,receita,5000.0,entrada,alta_prioridade,alto,Entrada mensal principal para análise de fluxo de caixa
+2025-10-02,Aluguel,moradia,1200.0,saida,essencial,alto,Despesa fixa relevante; pesa bastante no orçamento
+2025-10-03,Supermercado,alimentacao,450.0,saida,essencial,medio,Gasto essencial recorrente; revisar frequência e mix de compras
+2025-10-05,Netflix,lazer,55.9,saida,discrecionario,baixo,Assinatura recorrente; avaliar uso e custo-benefício
+2025-10-07,Farmácia,saude,89.0,saida,essencial,baixo,Despesa de saúde; manter como gasto necessário
+2025-10-10,Restaurante,alimentacao,120.0,saida,essencial,baixo,Gasto variável de alimentação fora de casa
+2025-10-12,Uber,transporte,45.0,saida,essencial,baixo,"Transporte por app; útil, mas pode ser otimizado"
+2025-10-15,Conta de Luz,moradia,180.0,saida,essencial,baixo,Conta essencial da casa; comparar com média mensal
+2025-10-20,Academia,saude,99.0,saida,essencial,baixo,Saúde e bem-estar; gasto discreto mas recorrente
+2025-10-25,Combustível,transporte,250.0,saida,essencial,medio,Combustível impacta orçamento de transporte e deslocamento

@@ -1,0 +1,6 @@
+data,canal,tema,resumo,resolvido,categoria_atendimento,prioridade_renda_clara,proxima_acao,observacao_renda_clara
+2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim,renda_fixa,media,"Reforçar explicação objetiva sobre risco, prazo e liquidez de CDB.",Histórico útil para inferir interesse em renda fixa e segurança.
+2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim,suporte_tech,alta,Manter registro do suporte e verificar se o extrato continua acessível.,Mostra dependência do aplicativo para consulta financeira.
+2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim,reserva_emergencia,media,Aproveitar para relacionar Tesouro Selic com reserva de emergência.,Indica foco em preservação de capital e liquidez.
+2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim,planejamento_financeiro,media,Mostrar evolução da meta e próximos passos para completar a reserva.,Ajuda o agente a contextualizar metas e motivação do cliente.
+2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim,dados_cadastrais,alta,Confirmar consistência dos dados de contato e preferência de canal.,Permite personalização e retomada de contato mais eficiente.
