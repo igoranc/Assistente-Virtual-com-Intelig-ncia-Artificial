@@ -102,4 +102,4 @@ FORMATO DE RESPOSTA:
   - hipótese interpretativa;
   - sugestão de próximos passos.
 - Também foi adicionada uma regra específica para situações de sofrimento financeiro e impulsividade, evitando linguagem diagnóstica.
-- A linguagem foi calibrada para ficar clara, acessível e compatível com um README de portfólio no GitHub.
+
