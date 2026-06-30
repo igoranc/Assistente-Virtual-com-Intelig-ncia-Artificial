@@ -27,7 +27,7 @@
 
 “O **Renda Clara** é um agente de IA criado para transformar dados financeiros em orientação clara e acessível. Ele conversa com o usuário com base em um contexto definido, usando informações simuladas de perfil e movimentação para explicar gastos, identificar padrões e ajudar na leitura da vida financeira.”
 
-“Em vez de agir como um consultor que promete respostas para tudo, ele funciona como um apoio reflexivo. Ele responde perguntas sobre despesas, organização financeira e comportamento de consumo, mas também reconhece seus limites: se a informação não está na base, ele admite isso. Assim, a solução prioriza clareza, segurança e coerência.”
+“Em vez de agir como um consultor que promete respostas para tudo, ele funciona como um apoio reflexivo. Ele responde perguntas sobre despesas, organização financeira e comportamento de consumo, mas também reconhece seus limites: se a informação não está na base, ele admite isso. Assim, a solução prioriza clareza, segurança, confiabilidade e coerência.”
 
 “O objetivo é simples: tornar a educação financeira mais prática, menos intimidante e mais próxima da realidade do usuário.”
 
@@ -41,7 +41,7 @@ Sugestão de perguntas para demonstração:
 - “Onde estou gastando mais?”
 - “Quanto gastei com alimentação?”
 - “Meu padrão de gastos mostra algum desequilíbrio?”
-- “Você sabe a cotação do dólar agora?”  
+- “Quem devo procurar para me orientar melhor sobre educação financeira?”  
 
 “Nessa demonstração, a ideia é mostrar três comportamentos principais do agente: primeiro, responder com base nos dados disponíveis; segundo, organizar a resposta de forma clara; e terceiro, reconhecer quando uma pergunta está fora do escopo ou não pode ser respondida com segurança.”
 
@@ -51,9 +51,9 @@ Sugestão de perguntas para demonstração:
 
 ### ✨ Diferencial (30 seg)
 
-“O diferencial do **Renda Clara** é que ele não entrega respostas financeiras genéricas. Ele interpreta os dados do contexto do usuário e transforma isso em uma conversa mais concreta e compreensível.”
+“O diferencial do **Renda Clara** é que ele não entrega respostas financeiras genéricas. Ele interpreta os dados do contexto do usuário em sua série histórica e transforma isso em uma conversa mais concreta e compreensível, adaptando a realidade socioeconômica para cada pessoa e seus objetivos.”
 
-“Além disso, a solução foi pensada para ser prudente: ela não inventa informações, não extrapola a base e não força recomendações fora do que pode sustentar. Isso torna o agente mais confiável e mais útil como ferramenta de educação e apoio à tomada de consciência financeira.”
+“Além disso, a solução foi pensada para ser prudente: ela não inventa informações, não extrapola a base, não força recomendações fora do que pode sustentar e busca explicitar todas dúvidas do usuário de forma simples e com linguagem acessível. Isso torna o agente mais confiável e mais útil como ferramenta de educação e apoio à tomada de consciência financeira.”
 
 ---
 
