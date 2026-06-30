@@ -16,7 +16,7 @@ O projeto **Renda Clara** utiliza como base principal os arquivos mockados dispo
 | `produtos_financeiros.json` | JSON | Conhecer os produtos e serviços disponíveis apenas para fins educativos, sem recomendação automática, permitindo que o agente explique possibilidades com prudência. |
 | `transacoes.csv` | CSV | Analisar padrão de gastos, recorrência de despesas, categorias mais pesadas, sazonalidade e possíveis excessos incompatíveis com a realidade financeira do usuário. |
 
-A lógica central do projeto está concentrada em `transacoes.csv`, porque é nele que o agente observa o comportamento financeiro ao longo do tempo. Os demais arquivos funcionam como camadas de contexto, continuidade e prudência interpretativa.
+A lógica central do projeto está concentrada, sobretudo, em `transacoes.csv`, porque é nele que o agente observa o comportamento financeiro na série histórica disponível. Os demais arquivos funcionam como camadas de contexto, continuidade e prudência interpretativa.
 
 ---
 
@@ -42,7 +42,7 @@ As expansões não existem para tornar o agente mais invasivo, mas mais contextu
 
 ### Como os dados são carregados?
 
-Os arquivos CSV e JSON são carregados no início da sessão da aplicação. Em um protótipo funcional, isso pode ser feito com `pandas.read_csv()` para arquivos tabulares e leitura de JSON com `json.load()`, abordagem compatível com a documentação do pandas para ingestão de dados estruturados [web:436][web:439].
+Os arquivos CSV e JSON são carregados no início da sessão da aplicação. Em um protótipo funcional, isso pode ser feito com `pandas.read_csv()` para arquivos tabulares e leitura de JSON com `json.load()`, abordagem compatível com a documentação do pandas para ingestão de dados estruturados.
 
 ```python
 import pandas as pd
