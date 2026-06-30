@@ -82,7 +82,7 @@ flowchart TD
 | Componente | Descrição |
 |------------|-----------|
 | Interface | [Streamlit](https://streamlit.io/), framework em Python para criação de aplicações interativas e interfaces conversacionais [web:423]. |
-| LLM | Modelo executado localmente com **Ollama**, priorizando privacidade, controle do ambiente e previsibilidade do fluxo [web:424][web:435]. |
+| LLM | Modelo executado localmente com **Ollama**, priorizando privacidade, controle do ambiente e previsibilidade do fluxo. |
 | Base de Conhecimento | Arquivos JSON e CSV mockados na pasta `data`, usados para montar contexto financeiro, histórico de atendimento, perfil e produtos. |
 | Camada de Validação | Regras para evitar alucinação, exagero inferencial, recomendação indevida e respostas incompatíveis com os dados disponíveis. |
 | Resposta Final | Saída educativa, prudente e contextualizada, alinhada ao escopo do agente. |
