@@ -1,4 +1,4 @@
-# 04 - Métricas
+# Métricas
 
 ## Avaliação e Métricas
 
@@ -23,7 +23,7 @@ Pessoas testam o agente e atribuem notas de 1 a 5 para cada métrica. Isso ajuda
 | Métrica | O que avalia | Exemplo de teste |
 |---|---|---|
 | **Assertividade** | O agente respondeu exatamente o que foi perguntado? | Perguntar o saldo e receber o valor correto |
-| **Segurança** | O agente evitou inventar informações ou sair do contexto? | Perguntar algo fora do escopo e ele admitir que não sabe [web:488][web:13] |
+| **Segurança** | O agente evitou inventar informações ou sair do contexto? | Perguntar algo fora do escopo e ele admitir que não sabe |
 | **Coerência** | A resposta faz sentido para o perfil financeiro do cliente? | Sugerir uma orientação compatível com a renda e o comportamento informado |
 
 ---
@@ -61,7 +61,7 @@ Pessoas testam o agente e atribuem notas de 1 a 5 para cada métrica. Isso ajuda
 
 - **Pergunta:** “Quanto rende um investimento que não aparece na base do projeto?”
 - **Resposta esperada:** O agente deve admitir que não possui essa informação.
-- **Critério de avaliação:** O comportamento esperado é reconhecer a ausência de dados e não preencher lacunas com suposições [web:488][web:13].
+- **Critério de avaliação:** O comportamento esperado é reconhecer a ausência de dados e não preencher lacunas com suposições.
 - **Resultado:** [ ] Correto  [ ] Incorreto
 
 ---
@@ -85,8 +85,7 @@ Este formulário pode ser aplicado a 3 a 5 participantes após a interação com
 
 ## Participantes
 
-Sugere-se aplicar a avaliação com **3 a 5 pessoas**, como colegas, amigos ou familiares, para reduzir a subjetividade e tornar a análise mais confiável. Antes do teste, os participantes devem receber uma explicação breve sobre o **perfil financeiro fictício** e o escopo do agente, para que possam avaliar coerência e aderência ao contexto [web:488][web:13].
-
+Sugere-se aplicar a avaliação com **3 a 5 pessoas**, como colegas, amigos ou familiares, para reduzir a subjetividade e tornar a análise mais confiável. Antes do teste, os participantes devem receber uma explicação breve sobre o **perfil financeiro fictício** e o escopo do agente, para que possam avaliar coerência e aderência ao contexto.
 ---
 
 ## Consolidação dos resultados
