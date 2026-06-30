@@ -28,10 +28,6 @@ O agente **ensina e orienta a reflexão**, mas **não faz recomendação finance
 
 ## 🏗️ Arquitetura
 
-## Arquitetura
-
-## Arquitetura
-
 ```mermaid
 flowchart TD
     A[Usuário] --> B[Streamlit]
