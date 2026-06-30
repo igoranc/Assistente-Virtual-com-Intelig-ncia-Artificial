@@ -1,4 +1,4 @@
-# Assistente-Virtual-com-Intelig-ncia-Artificial
+# Assistente Virtual com Inteligência Artificial
 Agente de IA criado para o desafio final da Bootcamp Bradesco - GenAI, Dados & Cybersegurança
 
 # Renda Clara
